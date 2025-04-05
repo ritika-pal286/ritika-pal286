@@ -12,8 +12,7 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-    <p> Every single contribution matters!" is my guiding principle. I value discipline as a skill and believe that consistency and dedication are crucial for achieving success. Take a look at my vibrant Github contribution heatmap.
-</p> 
+    
   <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/Khushi-Negi/Khushi-Negi/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
